@@ -2,7 +2,7 @@
 mongo
 
 // List databases
-use test
+show dbs
 
 // Select database
 use [dbname]
